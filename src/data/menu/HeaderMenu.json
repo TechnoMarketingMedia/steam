@@ -1,0 +1,27 @@
+[
+   
+    {
+        "label": "Home",
+        "path": "/"
+    },
+    {
+        "label": "Performance Parts",
+        "path": "/performance-parts"
+    },
+    {
+        "label": "New and Used Parts",
+        "path": "/new-and-used"
+    },
+    {
+        "label": "Service Parts",
+        "path": "/service-parts"
+    },
+    {
+        "label": "About",
+        "path": "/about"
+    },
+    {
+        "label": "Contact Us",
+        "path": "/contact"
+    }
+]
